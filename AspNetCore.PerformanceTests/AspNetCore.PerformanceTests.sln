@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiReturn", "ApiReturn\ApiReturn.csproj", "{1D874FB4-C4FB-4BD7-A522-187D8AF29336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeTask", "CoffeeTask\CoffeeTask.csproj", "{F42E7C5A-31F7-42D4-AC0E-8F3D0AD2D0F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D874FB4-C4FB-4BD7-A522-187D8AF29336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D874FB4-C4FB-4BD7-A522-187D8AF29336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D874FB4-C4FB-4BD7-A522-187D8AF29336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D874FB4-C4FB-4BD7-A522-187D8AF29336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42E7C5A-31F7-42D4-AC0E-8F3D0AD2D0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42E7C5A-31F7-42D4-AC0E-8F3D0AD2D0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42E7C5A-31F7-42D4-AC0E-8F3D0AD2D0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42E7C5A-31F7-42D4-AC0E-8F3D0AD2D0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69423EA1-6AC7-4191-9C08-1A07E3D7CB53}
+	EndGlobalSection
+EndGlobal
